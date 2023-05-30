@@ -39,7 +39,7 @@ Ensure that these dependencies are installed before running the project.
 
 ## Contact
 
-If you have any questions or inquiries about this showcase project, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries about this showcase project, feel free to reach out to me at [aviralsharma2021@iitkalumni.org](mailto:aviralsharma2021@iitkalumni.org).
 
 ---
 
